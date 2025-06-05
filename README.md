@@ -33,3 +33,12 @@ Ethical Hacking
 Encryption
 
 This GitHub profile serves as my cybersecurity portfolio, showcasing projects and demonstrating my capabilities as I prepare to contribute to a forward-thinking cybersecurity team.
+
+
+
+CyberEden Repository
+
+
+Automating_IP_AllowList_Removal.pdf:
+
+This PDF documents the process of developing a Python algorithm within a Jupyter Notebook environment. The algorithm is designed to efficiently remove a specified list of no-longer-authorized IP addresses from an existing network allow list, demonstrating practical skills in access control management, scripting for security automation, and data manipulation for defensive operations. Visual aids illustrate the code execution and its impact.
