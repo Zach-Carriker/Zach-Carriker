@@ -16,10 +16,12 @@ Google Artificial Intelligence Professional Certificate (July 2024)
 CompTIA Security+ (December 2024)
 
 What I'm Currently Learning
+
 I'm currently focused on a core cybersecurity path, with a strong emphasis on Security Operations Center (SOC) analyst responsibilities. 
 This includes deepening my understanding of threat detection, monitoring, and analysis techniques through hands-on labs.
 
 Areas of Interest
+
 My key areas of interest within cybersecurity include:
 
 Security Operations Center (SOC)
