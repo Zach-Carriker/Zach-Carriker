@@ -39,7 +39,7 @@ This GitHub profile serves as my cybersecurity portfolio, showcasing projects an
 CyberEden Repository
 
 
-Professional Srarement:
+Professional_statement.pdf:
 
 This section presents my professional statement, outlining my unique background, key cybersecurity certifications, and hands-on technical experience as an ISP Support Technician. It also highlights my current practical application of cybersecurity knowledge and my career aspirations within the field.
 
