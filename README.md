@@ -7,7 +7,7 @@ My recent experience as an ISP Support Technician at NRTC has provided valuable 
 real-world environment. I'm actively applying and expanding my practical skills through continuous learning and labs on TryHackMe, further solidifying my practical 
 defense techniques and security challenges.
 
-My Certifications
+My Certifications:
 
 Google Cybersecurity Professional Certificate (May 2024)
 
@@ -15,12 +15,12 @@ Google Artificial Intelligence Professional Certificate (July 2024)
 
 CompTIA Security+ (December 2024)
 
-What I'm Currently Learning
+What I'm Currently Learning:
 
 I'm currently focused on a core cybersecurity path, with a strong emphasis on Security Operations Center (SOC) analyst responsibilities. 
 This includes deepening my understanding of threat detection, monitoring, and analysis techniques through hands-on labs.
 
-Areas of Interest
+Areas of Interest:
 
 My key areas of interest within cybersecurity include:
 
