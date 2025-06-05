@@ -1,4 +1,5 @@
 About Me
+
 Hello! I'm Zachary Carriker, a dedicated and newly certified professional looking to launch my career in cybersecurity, driven by a passion for digital defense and system integrity.
 With a unique background in customer-focused operational roles, I've leveraged my problem-solving skills and commitment to security as I transition into the cybersecurity domain. 
 
