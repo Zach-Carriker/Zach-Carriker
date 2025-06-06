@@ -36,7 +36,8 @@ This GitHub profile serves as my cybersecurity portfolio, showcasing projects an
 
 
 
-CyberEden Repository
+Be sure to check out my CyberEden repository for my cybersecurity projects.
+
 
 
 Professional_statement.pdf:
@@ -47,3 +48,8 @@ This section presents my professional statement, outlining my unique background,
 Automating_IP_AllowList_Removal.pdf:
 
 This PDF documents the process of developing a Python algorithm within a Jupyter Notebook environment. The algorithm is designed to efficiently remove a specified list of no-longer-authorized IP addresses from an existing network allow list, demonstrating practical skills in access control management, scripting for security automation, and data manipulation for defensive operations. Visual aids illustrate the code execution and its impact.
+
+
+File_Permissions_in_Linux.pdf
+
+This project addresses the critical task of updating file and directory permissions within a projects directory to ensure proper access control. I was responsible for auditing existing permissions and implementing necessary adjustments to align access levels with security requirements. This work demonstrates my practical skills in managing permissions to enhance system safety and security.
