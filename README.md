@@ -121,4 +121,4 @@ Although not cybersecurity-focused, this project demonstrates comfort with `wget
 ## 📫 Get in Touch
 
 - 📧 Email: zach.carriker@email.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/zach-carriker)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zachary-carriker-1555062a7)
