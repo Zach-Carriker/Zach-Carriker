@@ -9,8 +9,8 @@ My recent role as an **ISP Support Technician at NRTC** gave me hands-on experie
 ## 🎓 Certifications
 
 - 🏅 **Google Cybersecurity Professional Certificate** *(Completed May 2024)*
-- 🤖 **Google Artificial Intelligence Professional Certificate** *(In Progress — July 2024)*
-- 🔐 **CompTIA Security+** *(Planned — December 2024)*
+- 🤖 **Google Artificial Intelligence Professional Certificate** *(Completed — July 2024)*
+- 🔐 **CompTIA Security+** *(Completed — December 2024)*
 
 ---
 
