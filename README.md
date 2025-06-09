@@ -8,9 +8,9 @@ My recent role as an **ISP Support Technician at NRTC** gave me hands-on experie
 
 ## 🎓 Certifications
 
-- 🏅 **Google Cybersecurity Professional Certificate** *(Completed May 2024)*
-- 🤖 **Google Artificial Intelligence Professional Certificate** *(Completed — July 2024)*
-- 🔐 **CompTIA Security+** *(Completed — December 2024)*
+- 🏅 Google Cybersecurity Professional Certificate *(Completed May 2024)*  
+- 🤖 Google Artificial Intelligence Professional Certificate *(Completed July 2024)*  
+- 🔐 CompTIA Security+ *(Completed December 2024)*
 
 ---
 
@@ -38,7 +38,7 @@ I'm focused on core cybersecurity skills with an emphasis on **Security Operatio
 - Security Operations Center (SOC)  
 - Incident Response  
 - Ethical Hacking & Penetration Testing  
-- Encryption & Access Control  
+- Encryption & Access Control
 
 ---
 
@@ -52,44 +52,69 @@ Read my full professional statement [here (PDF)](Professional_Statement.pdf), wh
 
 Here are some of the projects I’ve completed to apply and demonstrate my cybersecurity skills:
 
-### 📄 [Automating IP Allow List Removal](#)  
-*Python-based access control automation*
-
-This project documents the process of developing a Python script (in Jupyter Notebook) to remove no-longer-authorized IPs from a network allow list. It demonstrates skills in:
-- Scripting for network security  
-- Defensive automation  
-- Data manipulation  
-- Visual code walkthroughs  
+### 📄 [Automating IP Allow List Removal](https://github.com/Zach-Carriker/ip-allowlist-removal)
+Python-based access control automation  
+Developed a script to remove no-longer-authorized IPs from a network allow list, demonstrating defensive automation, data manipulation, and Jupyter-based documentation.
 
 ---
 
-### 📁 [File Permissions in Linux](#)  
-*Access control in Linux environments*
-
-A hands-on task where I audited and updated file and directory permissions within a Linux projects directory to align with secure access control policies. Skills demonstrated include:
-- Linux file system navigation  
-- chmod/chown usage  
-- Principle of least privilege  
+### 📁 [File Permissions in Linux](https://github.com/Zach-Carriker/file-permissions-linux)
+Access control hardening in a Linux environment  
+Audited and modified file/directory permissions to align with least privilege principles using `chmod`, `chown`, and shell commands.
 
 ---
 
-### ✅ [Botium Controls Compliance Checklist](#)  
-*Security audit and compliance analysis*
+### ✅ [Botium Security Audit](https://github.com/Zach-Carriker/botium-security-audit)
+Compliance assessment for a fictional retail company  
+Performed a gap analysis against PCI DSS, SOC 2, and GDPR, identifying missing controls and recommending remediation using the NIST Cybersecurity Framework.
 
-This project presents a cybersecurity audit for a fictional company, **Botium Toys**. The initial scenario was provided, but I conducted an independent controls and compliance analysis using:
-- NIST Cybersecurity Framework  
-- PCI DSS, GDPR, and SOC standards  
-- Manual gap analysis and risk scoring  
+---
 
-**Key Findings:**
-- Missing encryption, backups, and access controls led to a high risk score (8/10).
-- Data exposure risks were identified and addressed with specific recommendations.
+### 🛡 [Vulnerability Assessment Report](https://github.com/Zach-Carriker/vulnerability-assessment-report)
+Risk assessment for a Linux-based MySQL server  
+Applied NIST SP 800-30 methodology to evaluate access control vulnerabilities and recommend mitigation based on confidentiality, integrity, and availability (CIA).
 
-**Recommendations Included:**
-- Least privilege enforcement  
-- IDS implementation  
-- Password policy improvements  
-- Disaster recovery planning  
+---
+
+### 🧮 [SQL Security Filters](https://github.com/Zach-Carriker/sql-security-filters)
+Log investigation and employee filtering using SQL  
+Used filtered queries to detect after-hours login attempts, isolate suspicious locations, and identify machines needing updates based on department and location.
+
+---
+
+### 🔍 [PASTA Threat Modeling](https://github.com/Zach-Carriker/pasta-threat-modeling)
+Modeled attacks against an e-commerce platform using the 7-stage PASTA framework  
+Identified SQL injection and social engineering threats, modeled potential attacks, and proposed mitigations based on encryption, MFA, and access control.
+
+---
+
+### 🔐 [Data Leak: Least Privilege Failure](https://github.com/Zach-Carriker/data-leak-least-privilege)
+Analyzed an access control failure using NIST SP 800-53 AC-6  
+Investigated a fictional data leak caused by poor privilege management and proposed procedural and technical controls to prevent recurrence.
+
+---
+
+### 🚨 [DDoS Incident Response Report](https://github.com/Zach-Carriker/ddos-incident-response-report)
+Simulated SOC response to a volumetric ICMP flood attack  
+Structured around the NIST CSF functions, this project documents detection, mitigation, and recovery efforts including firewall rule updates and backup policy review.
+
+---
+
+### 🏦 [Bank Risk Register](https://github.com/Zach-Carriker/bank-risk-register)
+Identified and prioritized risks in a fictional community bank  
+Created a risk register with qualitative scoring and aligned mitigation plans to financial security and GLBA compliance expectations.
+
+---
+
+### 🎣 [Phishing Incident Response Journal](https://github.com/Zach-Carriker/phishing-incident-response-journal)
+SOC-style journal and alert handling walkthrough  
+Logged and escalated multiple phishing alerts using VirusTotal, SHA-256 hashes, and a custom playbook. Includes full ticket flow and incident response lifecycle reflection.
+
+---
+
+### 🧰 [Linux CLI Install Project](https://github.com/Zach-Carriker/linux-cli-install-project)
+Manual installation of a legacy game using Linux CLI tools  
+Although not cybersecurity-focused, this project demonstrates comfort with `wget`, `tar`, `chmod`, and package setup in a Linux-only terminal environment.
 
 ---
 
