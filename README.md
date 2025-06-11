@@ -42,6 +42,16 @@ I'm focused on core cybersecurity skills with an emphasis on **Security Operatio
 
 ---
 
+## 📄 Resume
+
+You can view or download my most up-to-date resume here:
+
+🔗 **[Resume – Zachary Carriker (PDF)](Resume_Zach_Carriker_06-10-2025.pdf)**
+
+It includes a summary of my certifications, professional experience, technical skills, and current cybersecurity project work.
+
+---
+
 ## 🧾 Professional Statement
 
 Read my full professional statement [here (PDF)](Professional_Statement.pdf), where I outline my unique background, cybersecurity certifications, hands-on technical experience, and career goals.
