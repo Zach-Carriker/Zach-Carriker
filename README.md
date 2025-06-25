@@ -62,7 +62,7 @@ Read my full professional statement [here (PDF)](Professional_Statement.pdf), wh
 
 Here are some of the projects I’ve completed to apply and demonstrate my cybersecurity skills:
 
-🔐 [Secure Home Network Deployment](https://github.com/Zach-Carriker/secure-home-network-deployment)  
+### 🔐 [Secure Home Network Deployment](https://github.com/Zach-Carriker/secure-home-network-deployment)  
 Vulnerability assessment and hardening of a real home network  
 Used Nessus Essentials to identify and remediate high-risk vulnerabilities. Replaced ISP hardware, hardened router and host configurations, and documented before-and-after security improvements across multiple devices.
 
