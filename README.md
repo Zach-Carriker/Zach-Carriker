@@ -62,6 +62,12 @@ Read my full professional statement [here (PDF)](Professional_Statement.pdf), wh
 
 Here are some of the projects I’ve completed to apply and demonstrate my cybersecurity skills:
 
+🔐 [Secure Home Network Deployment](https://github.com/Zach-Carriker/secure-home-network-deployment)  
+Vulnerability assessment and hardening of a real home network  
+Used Nessus Essentials to identify and remediate high-risk vulnerabilities. Replaced ISP hardware, hardened router and host configurations, and documented before-and-after security improvements across multiple devices.
+
+---
+
 ### 📄 [Automating IP Allow List Removal](https://github.com/Zach-Carriker/ip-allowlist-removal)
 Python-based access control automation  
 Developed a script to remove no-longer-authorized IPs from a network allow list, demonstrating defensive automation, data manipulation, and Jupyter-based documentation.
