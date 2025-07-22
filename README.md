@@ -62,6 +62,11 @@ Read my full professional statement [here (PDF)](Professional_Statement.pdf), wh
 
 Here are some of the projects I’ve completed to apply and demonstrate my cybersecurity skills:
 
+### 🛰️ [Phantom IoT Security](https://github.com/Zach-Carriker/phantom-iot-security)  
+Isolated vulnerable IoT devices onto segmented networks to prevent lateral movement and reduce attack surface. Used Nessus Essentials to scan both 2.4 GHz and 5 GHz IoT environments, verified network isolation via Linux CLI, and documented findings in a full report.
+
+---
+
 ### 🔐 [Secure Home Network Deployment](https://github.com/Zach-Carriker/secure-home-network-deployment)  
 Vulnerability assessment and hardening of a real home network  
 Used Nessus Essentials to identify and remediate high-risk vulnerabilities. Replaced ISP hardware, hardened router and host configurations, and documented before-and-after security improvements across multiple devices.
